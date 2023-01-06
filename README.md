@@ -1,1 +1,2 @@
-repositorio de prueba para saber como crear un repositorio de github y clonarlo de manera local
+repositorio de prueba para saber como crear un repositorio desde  github y clonarlo de manera local
+Mayito Carrizosa
