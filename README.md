@@ -1,2 +1,1 @@
-# PreCurso-Henry-M2
-Repositorio de prueba para el modulo 2
+repositorio de prueba para saber como crear un repositorio de github y clonarlo de manera local
